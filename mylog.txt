@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-24T17:28:27.717090100Z</date>
+  <millis>1669310907717</millis>
+  <nanos>90100</nanos>
+  <sequence>0</sequence>
+  <logger>PatientBMI</logger>
+  <level>INFO</level>
+  <class>loggingBMI</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>info msg</message>
+</record>
+</log>
